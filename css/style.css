@@ -243,6 +243,7 @@ body{
     align-items: center;
     transition: all 0.3s ease-in-out;
     visibility: hidden;
+    user-select: none;
 }
 
 .swiper-slide-prev{
